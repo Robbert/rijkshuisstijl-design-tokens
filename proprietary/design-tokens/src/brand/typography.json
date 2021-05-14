@@ -1,0 +1,14 @@
+{
+  "typography": {
+    "sans-serif": {
+      "font-family": {
+        "value": "\"RO Sans\", \"Calibri\", \"Verdana\", \"Arial\", sans-serif"
+      }
+    },
+    "serif": {
+      "font-family": {
+        "value": "\"RO Serif\", \"Times New Roman\", sans-serif"
+      }
+    }
+  }
+}

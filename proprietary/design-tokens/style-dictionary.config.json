@@ -1,0 +1,67 @@
+{
+  "source": ["src/**/*.json"],
+  "platforms": {
+    "js": {
+      "transforms": ["attribute/cti", "name/cti/camel", "color/hsl-4"],
+      "buildPath": "dist/",
+      "files": [
+        {
+          "destination": "index.js",
+          "format": "javascript/es6"
+        }
+      ]
+    },
+    "json": {
+      "transforms": ["attribute/cti", "name/cti/camel", "color/hsl-4"],
+      "buildPath": "dist/",
+      "files": [
+        {
+          "destination": "index.json",
+          "format": "json"
+        }
+      ]
+    },
+    "css": {
+      "prefix": "rijkshuisstijl",
+      "transforms": ["attribute/cti", "name/cti/kebab", "color/hsl-4"],
+      "buildPath": "dist/",
+      "files": [
+        {
+          "destination": "index.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          }
+        }
+      ]
+    },
+    "scss": {
+      "prefix": "rijkshuisstijl",
+      "transforms": ["attribute/cti", "name/cti/kebab", "color/hsl-4"],
+      "buildPath": "dist/",
+      "files": [
+        {
+          "destination": "index.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          }
+        }
+      ]
+    },
+    "less": {
+      "prefix": "rijkshuisstijl",
+      "transforms": ["attribute/cti", "name/cti/kebab", "color/hsl-4"],
+      "buildPath": "dist/",
+      "files": [
+        {
+          "destination": "index.less",
+          "format": "less/variables",
+          "options": {
+            "outputReferences": true
+          }
+        }
+      ]
+    }
+  }
+}
