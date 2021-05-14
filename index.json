@@ -1,1024 +1,1142 @@
 {
-  "paars": {
-    "basis": {
-      "value": "#42145f",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#42145f"
+  "color": {
+    "paars": {
+      "basis": {
+        "value": "hsl(277 65% 23%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#42145f"
+        },
+        "name": "colorPaarsBasis",
+        "attributes": {
+          "category": "color",
+          "type": "paars",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "paars",
+          "basis"
+        ]
       },
-      "name": "paarsBasis",
-      "attributes": {
-        "category": "paars",
-        "type": "basis"
+      "tint-1": {
+        "value": "hsl(277 19% 77%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#c6b8cf"
+        },
+        "name": "colorPaarsTint1",
+        "attributes": {
+          "category": "color",
+          "type": "paars",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "paars",
+          "tint-1"
+        ]
       },
-      "path": [
-        "paars",
-        "basis"
-      ]
+      "tint-2": {
+        "value": "hsl(278 19% 88%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#e3dce7"
+        },
+        "name": "colorPaarsTint2",
+        "attributes": {
+          "category": "color",
+          "type": "paars",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "paars",
+          "tint-2"
+        ]
+      }
     },
-    "tint-1": {
-      "value": "#c6b8cf",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#c6b8cf"
+    "violet": {
+      "basis": {
+        "value": "hsl(326 100% 33%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#a90061"
+        },
+        "name": "colorVioletBasis",
+        "attributes": {
+          "category": "color",
+          "type": "violet",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "violet",
+          "basis"
+        ]
       },
-      "name": "paarsTint1",
-      "attributes": {
-        "category": "paars",
-        "type": "tint-1"
+      "tint-1": {
+        "value": "hsl(326 50% 80%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#e5b2cf"
+        },
+        "name": "colorVioletTint1",
+        "attributes": {
+          "category": "color",
+          "type": "violet",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "violet",
+          "tint-1"
+        ]
       },
-      "path": [
-        "paars",
-        "tint-1"
-      ]
+      "tint-2": {
+        "value": "hsl(326 49% 90%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#f2d9e7"
+        },
+        "name": "colorVioletTint2",
+        "attributes": {
+          "category": "color",
+          "type": "violet",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "violet",
+          "tint-2"
+        ]
+      }
     },
-    "tint-2": {
-      "value": "#e3dce7",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#e3dce7"
+    "robijnrood": {
+      "basis": {
+        "value": "hsl(332 100% 40%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ca005d"
+        },
+        "name": "colorRobijnroodBasis",
+        "attributes": {
+          "category": "color",
+          "type": "robijnrood",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "robijnrood",
+          "basis"
+        ]
       },
-      "name": "paarsTint2",
-      "attributes": {
-        "category": "paars",
-        "type": "tint-2"
+      "tint-1": {
+        "value": "hsl(332 66% 82%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#efb2ce"
+        },
+        "name": "colorRobijnroodTint1",
+        "attributes": {
+          "category": "color",
+          "type": "robijnrood",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "robijnrood",
+          "tint-1"
+        ]
       },
-      "path": [
-        "paars",
-        "tint-2"
-      ]
-    }
-  },
-  "violet": {
-    "basis": {
-      "value": "#a90061",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#a90061"
-      },
-      "name": "violetBasis",
-      "attributes": {
-        "category": "violet",
-        "type": "basis"
-      },
-      "path": [
-        "violet",
-        "basis"
-      ]
+      "tint-2": {
+        "value": "hsl(332 65% 91%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#f7d9e7"
+        },
+        "name": "colorRobijnroodTint2",
+        "attributes": {
+          "category": "color",
+          "type": "robijnrood",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "robijnrood",
+          "tint-2"
+        ]
+      }
     },
-    "tint-1": {
-      "value": "#e5b2cf",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#e5b2cf"
+    "roze": {
+      "basis": {
+        "value": "hsl(322 76% 76%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#f092cd"
+        },
+        "name": "colorRozeBasis",
+        "attributes": {
+          "category": "color",
+          "type": "roze",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "roze",
+          "basis"
+        ]
       },
-      "name": "violetTint1",
-      "attributes": {
-        "category": "violet",
-        "type": "tint-1"
+      "tint-1": {
+        "value": "hsl(321 74% 93%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#fadef0"
+        },
+        "name": "colorRozeTint1",
+        "attributes": {
+          "category": "color",
+          "type": "roze",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "roze",
+          "tint-1"
+        ]
       },
-      "path": [
-        "violet",
-        "tint-1"
-      ]
+      "tint-2": {
+        "value": "hsl(321 78% 96%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#fdeff8"
+        },
+        "name": "colorRozeTint2",
+        "attributes": {
+          "category": "color",
+          "type": "roze",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "roze",
+          "tint-2"
+        ]
+      }
     },
-    "tint-2": {
-      "value": "#f2d9e7",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#f2d9e7"
+    "rood": {
+      "basis": {
+        "value": "hsl(4 75% 48%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#d52b1e"
+        },
+        "name": "colorRoodBasis",
+        "attributes": {
+          "category": "color",
+          "type": "rood",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "rood",
+          "basis"
+        ]
       },
-      "name": "violetTint2",
-      "attributes": {
-        "category": "violet",
-        "type": "tint-2"
+      "tint-1": {
+        "value": "hsl(4 68% 84%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#f2bfbb"
+        },
+        "name": "colorRoodTint1",
+        "attributes": {
+          "category": "color",
+          "type": "rood",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "rood",
+          "tint-1"
+        ]
       },
-      "path": [
-        "violet",
-        "tint-2"
-      ]
-    }
-  },
-  "robijnrood": {
-    "basis": {
-      "value": "#ca005d",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#ca005d"
-      },
-      "name": "robijnroodBasis",
-      "attributes": {
-        "category": "robijnrood",
-        "type": "basis"
-      },
-      "path": [
-        "robijnrood",
-        "basis"
-      ]
+      "tint-2": {
+        "value": "hsl(4 70% 92%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#f9dfdd"
+        },
+        "name": "colorRoodTint2",
+        "attributes": {
+          "category": "color",
+          "type": "rood",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "rood",
+          "tint-2"
+        ]
+      }
     },
-    "tint-1": {
-      "value": "#efb2ce",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#efb2ce"
+    "oranje": {
+      "basis": {
+        "value": "hsl(30 100% 44%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#e17000"
+        },
+        "name": "colorOranjeBasis",
+        "attributes": {
+          "category": "color",
+          "type": "oranje",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "oranje",
+          "basis"
+        ]
       },
-      "name": "robijnroodTint1",
-      "attributes": {
-        "category": "robijnrood",
-        "type": "tint-1"
+      "tint-1": {
+        "value": "hsl(30 79% 83%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#f6d4b2"
+        },
+        "name": "colorOranjeTint1",
+        "attributes": {
+          "category": "color",
+          "type": "oranje",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "oranje",
+          "tint-1"
+        ]
       },
-      "path": [
-        "robijnrood",
-        "tint-1"
-      ]
+      "tint-2": {
+        "value": "hsl(30 81% 92%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#fbead9"
+        },
+        "name": "colorOranjeTint2",
+        "attributes": {
+          "category": "color",
+          "type": "oranje",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "oranje",
+          "tint-2"
+        ]
+      }
     },
-    "tint-2": {
-      "value": "#f7d9e7",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#f7d9e7"
+    "donkergeel": {
+      "basis": {
+        "value": "hsl(42 100% 54%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffb612"
+        },
+        "name": "colorDonkergeelBasis",
+        "attributes": {
+          "category": "color",
+          "type": "donkergeel",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "donkergeel",
+          "basis"
+        ]
       },
-      "name": "robijnroodTint2",
-      "attributes": {
-        "category": "robijnrood",
-        "type": "tint-2"
+      "tint-1": {
+        "value": "hsl(42 100% 86%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffe9b7"
+        },
+        "name": "colorDonkergeelTint1",
+        "attributes": {
+          "category": "color",
+          "type": "donkergeel",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "donkergeel",
+          "tint-1"
+        ]
       },
-      "path": [
-        "robijnrood",
-        "tint-2"
-      ]
-    }
-  },
-  "roze": {
-    "basis": {
-      "value": "#f092cd",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#f092cd"
-      },
-      "name": "rozeBasis",
-      "attributes": {
-        "category": "roze",
-        "type": "basis"
-      },
-      "path": [
-        "roze",
-        "basis"
-      ]
+      "tint-2": {
+        "value": "hsl(41 100% 93%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#fff4dc"
+        },
+        "name": "colorDonkergeelTint2",
+        "attributes": {
+          "category": "color",
+          "type": "donkergeel",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "donkergeel",
+          "tint-2"
+        ]
+      }
     },
-    "tint-1": {
-      "value": "#fadef0",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#fadef0"
+    "geel": {
+      "basis": {
+        "value": "hsl(53 95% 55%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#f9e11e"
+        },
+        "name": "colorGeelBasis",
+        "attributes": {
+          "category": "color",
+          "type": "geel",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "geel",
+          "basis"
+        ]
       },
-      "name": "rozeTint1",
-      "attributes": {
-        "category": "roze",
-        "type": "tint-1"
+      "tint-1": {
+        "value": "hsl(54 94% 86%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#fdf6bb"
+        },
+        "name": "colorGeelTint1",
+        "attributes": {
+          "category": "color",
+          "type": "geel",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "geel",
+          "tint-1"
+        ]
       },
-      "path": [
-        "roze",
-        "tint-1"
-      ]
+      "tint-2": {
+        "value": "hsl(55 94% 93%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#fefbdd"
+        },
+        "name": "colorGeelTint2",
+        "attributes": {
+          "category": "color",
+          "type": "geel",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "geel",
+          "tint-2"
+        ]
+      }
     },
-    "tint-2": {
-      "value": "#fdeff8",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#fdeff8"
+    "donkerbruin": {
+      "basis": {
+        "value": "hsl(11 45% 28%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#673327"
+        },
+        "name": "colorDonkerbruinBasis",
+        "attributes": {
+          "category": "color",
+          "type": "donkerbruin",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "donkerbruin",
+          "basis"
+        ]
       },
-      "name": "rozeTint2",
-      "attributes": {
-        "category": "roze",
-        "type": "tint-2"
+      "tint-1": {
+        "value": "hsl(9 17% 78%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#d1c1be"
+        },
+        "name": "colorDonkerbruinTint1",
+        "attributes": {
+          "category": "color",
+          "type": "donkerbruin",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "donkerbruin",
+          "tint-1"
+        ]
       },
-      "path": [
-        "roze",
-        "tint-2"
-      ]
-    }
-  },
-  "rood": {
-    "basis": {
-      "value": "#d52b1e",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#d52b1e"
-      },
-      "name": "roodBasis",
-      "attributes": {
-        "category": "rood",
-        "type": "basis"
-      },
-      "path": [
-        "rood",
-        "basis"
-      ]
+      "tint-2": {
+        "value": "hsl(13 16% 89%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#e8e1df"
+        },
+        "name": "colorDonkerbruinTint2",
+        "attributes": {
+          "category": "color",
+          "type": "donkerbruin",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "donkerbruin",
+          "tint-2"
+        ]
+      }
     },
-    "tint-1": {
-      "value": "#f2bfbb",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#f2bfbb"
+    "bruin": {
+      "basis": {
+        "value": "hsl(45 87% 31%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#94710a"
+        },
+        "name": "colorBruinBasis",
+        "attributes": {
+          "category": "color",
+          "type": "bruin",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "bruin",
+          "basis"
+        ]
       },
-      "name": "roodTint1",
-      "attributes": {
-        "category": "rood",
-        "type": "tint-1"
+      "tint-1": {
+        "value": "hsl(44 40% 79%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#dfd4b5"
+        },
+        "name": "colorBruinTint1",
+        "attributes": {
+          "category": "color",
+          "type": "bruin",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "bruin",
+          "tint-1"
+        ]
       },
-      "path": [
-        "rood",
-        "tint-1"
-      ]
+      "tint-2": {
+        "value": "hsl(46 40% 90%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#efeada"
+        },
+        "name": "colorBruinTint2",
+        "attributes": {
+          "category": "color",
+          "type": "bruin",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "bruin",
+          "tint-2"
+        ]
+      }
     },
-    "tint-2": {
-      "value": "#f9dfdd",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#f9dfdd"
+    "donkergroen": {
+      "basis": {
+        "value": "hsl(139 39% 25%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#275937"
+        },
+        "name": "colorDonkergroenBasis",
+        "attributes": {
+          "category": "color",
+          "type": "donkergroen",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "donkergroen",
+          "basis"
+        ]
       },
-      "name": "roodTint2",
-      "attributes": {
-        "category": "rood",
-        "type": "tint-2"
+      "tint-1": {
+        "value": "hsl(140 13% 77%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#becdc3"
+        },
+        "name": "colorDonkergroenTint1",
+        "attributes": {
+          "category": "color",
+          "type": "donkergroen",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "donkergroen",
+          "tint-1"
+        ]
       },
-      "path": [
-        "rood",
-        "tint-2"
-      ]
-    }
-  },
-  "oranje": {
-    "basis": {
-      "value": "#e17000",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#e17000"
-      },
-      "name": "oranjeBasis",
-      "attributes": {
-        "category": "oranje",
-        "type": "basis"
-      },
-      "path": [
-        "oranje",
-        "basis"
-      ]
+      "tint-2": {
+        "value": "hsl(137 12% 89%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#dfe6e1"
+        },
+        "name": "colorDonkergroenTint2",
+        "attributes": {
+          "category": "color",
+          "type": "donkergroen",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "donkergroen",
+          "tint-2"
+        ]
+      }
     },
-    "tint-1": {
-      "value": "#f6d4b2",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#f6d4b2"
+    "groen": {
+      "basis": {
+        "value": "hsl(98 84% 29%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#39870c"
+        },
+        "name": "colorGroenBasis",
+        "attributes": {
+          "category": "color",
+          "type": "groen",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "groen",
+          "basis"
+        ]
       },
-      "name": "oranjeTint1",
-      "attributes": {
-        "category": "oranje",
-        "type": "tint-1"
+      "tint-1": {
+        "value": "hsl(99 34% 79%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#c3dbb6"
+        },
+        "name": "colorGroenTint1",
+        "attributes": {
+          "category": "color",
+          "type": "groen",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "groen",
+          "tint-1"
+        ]
       },
-      "path": [
-        "oranje",
-        "tint-1"
-      ]
+      "tint-2": {
+        "value": "hsl(100 33% 89%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#e1eddb"
+        },
+        "name": "colorGroenTint2",
+        "attributes": {
+          "category": "color",
+          "type": "groen",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "groen",
+          "tint-2"
+        ]
+      }
     },
-    "tint-2": {
-      "value": "#fbead9",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#fbead9"
+    "mosgroen": {
+      "basis": {
+        "value": "hsl(62 100% 24%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#777c00"
+        },
+        "name": "colorMosgroenBasis",
+        "attributes": {
+          "category": "color",
+          "type": "mosgroen",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "mosgroen",
+          "basis"
+        ]
       },
-      "name": "oranjeTint2",
-      "attributes": {
-        "category": "oranje",
-        "type": "tint-2"
+      "tint-1": {
+        "value": "hsl(62 32% 77%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#d6d7b2"
+        },
+        "name": "colorMosgroenTint1",
+        "attributes": {
+          "category": "color",
+          "type": "mosgroen",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "mosgroen",
+          "tint-1"
+        ]
       },
-      "path": [
-        "oranje",
-        "tint-2"
-      ]
-    }
-  },
-  "donkergeel": {
-    "basis": {
-      "value": "#ffb612",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#ffb612"
-      },
-      "name": "donkergeelBasis",
-      "attributes": {
-        "category": "donkergeel",
-        "type": "basis"
-      },
-      "path": [
-        "donkergeel",
-        "basis"
-      ]
+      "tint-2": {
+        "value": "hsl(60 31% 89%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ebebd9"
+        },
+        "name": "colorMosgroenTint2",
+        "attributes": {
+          "category": "color",
+          "type": "mosgroen",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "mosgroen",
+          "tint-2"
+        ]
+      }
     },
-    "tint-1": {
-      "value": "#ffe9b7",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#ffe9b7"
+    "mintgroen": {
+      "basis": {
+        "value": "hsl(162 51% 64%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#76d2b6"
+        },
+        "name": "colorMintgroenBasis",
+        "attributes": {
+          "category": "color",
+          "type": "mintgroen",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "mintgroen",
+          "basis"
+        ]
       },
-      "name": "donkergeelTint1",
-      "attributes": {
-        "category": "donkergeel",
-        "type": "tint-1"
+      "tint-1": {
+        "value": "hsl(162 49% 89%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#d6f1e9"
+        },
+        "name": "colorMintgroenTint1",
+        "attributes": {
+          "category": "color",
+          "type": "mintgroen",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "mintgroen",
+          "tint-1"
+        ]
       },
-      "path": [
-        "donkergeel",
-        "tint-1"
-      ]
+      "tint-2": {
+        "value": "hsl(162 48% 95%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ebf8f4"
+        },
+        "name": "colorMintgroenTint2",
+        "attributes": {
+          "category": "color",
+          "type": "mintgroen",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "mintgroen",
+          "tint-2"
+        ]
+      }
     },
-    "tint-2": {
-      "value": "#fff4dc",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#fff4dc"
+    "donkerblauw": {
+      "basis": {
+        "value": "hsl(200 99% 31%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#01689b"
+        },
+        "name": "colorDonkerblauwBasis",
+        "attributes": {
+          "category": "color",
+          "type": "donkerblauw",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "donkerblauw",
+          "basis"
+        ]
       },
-      "name": "donkergeelTint2",
-      "attributes": {
-        "category": "donkergeel",
-        "type": "tint-2"
+      "tint-1": {
+        "value": "hsl(208 57% 87%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#cce0f1"
+        },
+        "name": "colorDonkerblauwTint1",
+        "attributes": {
+          "category": "color",
+          "type": "donkerblauw",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "donkerblauw",
+          "tint-1"
+        ]
       },
-      "path": [
-        "donkergeel",
-        "tint-2"
-      ]
-    }
-  },
-  "geel": {
-    "basis": {
-      "value": "#f9e11e",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#f9e11e"
-      },
-      "name": "geelBasis",
-      "attributes": {
-        "category": "geel",
-        "type": "basis"
-      },
-      "path": [
-        "geel",
-        "basis"
-      ]
+      "tint-2": {
+        "value": "hsl(207 63% 94%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#e5f0f9"
+        },
+        "name": "colorDonkerblauwTint2",
+        "attributes": {
+          "category": "color",
+          "type": "donkerblauw",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "donkerblauw",
+          "tint-2"
+        ]
+      }
     },
-    "tint-1": {
-      "value": "#fdf6bb",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#fdf6bb"
+    "hemelblauw": {
+      "basis": {
+        "value": "hsl(203 100% 39%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#007bc7"
+        },
+        "name": "colorHemelblauwBasis",
+        "attributes": {
+          "category": "color",
+          "type": "hemelblauw",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "hemelblauw",
+          "basis"
+        ]
       },
-      "name": "geelTint1",
-      "attributes": {
-        "category": "geel",
-        "type": "tint-1"
+      "tint-1": {
+        "value": "hsl(203 64% 82%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#b2d7ee"
+        },
+        "name": "colorHemelblauwTint1",
+        "attributes": {
+          "category": "color",
+          "type": "hemelblauw",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "hemelblauw",
+          "tint-1"
+        ]
       },
-      "path": [
-        "geel",
-        "tint-1"
-      ]
+      "tint-2": {
+        "value": "hsl(204 65% 91%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#d9ebf7"
+        },
+        "name": "colorHemelblauwTint2",
+        "attributes": {
+          "category": "color",
+          "type": "hemelblauw",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "hemelblauw",
+          "tint-2"
+        ]
+      }
     },
-    "tint-2": {
-      "value": "#fefbdd",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#fefbdd"
+    "lichtblauw": {
+      "basis": {
+        "value": "hsl(200 65% 73%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#8fcae7"
+        },
+        "name": "colorLichtblauwBasis",
+        "attributes": {
+          "category": "color",
+          "type": "lichtblauw",
+          "item": "basis"
+        },
+        "path": [
+          "color",
+          "lichtblauw",
+          "basis"
+        ]
       },
-      "name": "geelTint2",
-      "attributes": {
-        "category": "geel",
-        "type": "tint-2"
+      "tint-1": {
+        "value": "hsl(200 66% 92%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ddeff8"
+        },
+        "name": "colorLichtblauwTint1",
+        "attributes": {
+          "category": "color",
+          "type": "lichtblauw",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "lichtblauw",
+          "tint-1"
+        ]
       },
-      "path": [
-        "geel",
-        "tint-2"
-      ]
-    }
-  },
-  "donkerbruin": {
-    "basis": {
-      "value": "#673327",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#673327"
-      },
-      "name": "donkerbruinBasis",
-      "attributes": {
-        "category": "donkerbruin",
-        "type": "basis"
-      },
-      "path": [
-        "donkerbruin",
-        "basis"
-      ]
+      "tint-2": {
+        "value": "hsl(198 62% 96%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#eef7fb"
+        },
+        "name": "colorLichtblauwTint2",
+        "attributes": {
+          "category": "color",
+          "type": "lichtblauw",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "lichtblauw",
+          "tint-2"
+        ]
+      }
     },
-    "tint-1": {
-      "value": "#d1c1be",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#d1c1be"
-      },
-      "name": "donkerbruinTint1",
-      "attributes": {
-        "category": "donkerbruin",
-        "type": "tint-1"
-      },
-      "path": [
-        "donkerbruin",
-        "tint-1"
-      ]
-    },
-    "tint-2": {
-      "value": "#e8e1df",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#e8e1df"
-      },
-      "name": "donkerbruinTint2",
-      "attributes": {
-        "category": "donkerbruin",
-        "type": "tint-2"
-      },
-      "path": [
-        "donkerbruin",
-        "tint-2"
-      ]
-    }
-  },
-  "bruin": {
-    "basis": {
-      "value": "#94710a",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#94710a"
-      },
-      "name": "bruinBasis",
-      "attributes": {
-        "category": "bruin",
-        "type": "basis"
-      },
-      "path": [
-        "bruin",
-        "basis"
-      ]
-    },
-    "tint-1": {
-      "value": "#dfd4b5",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#dfd4b5"
-      },
-      "name": "bruinTint1",
-      "attributes": {
-        "category": "bruin",
-        "type": "tint-1"
-      },
-      "path": [
-        "bruin",
-        "tint-1"
-      ]
-    },
-    "tint-2": {
-      "value": "#efeada",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#efeada"
-      },
-      "name": "bruinTint2",
-      "attributes": {
-        "category": "bruin",
-        "type": "tint-2"
-      },
-      "path": [
-        "bruin",
-        "tint-2"
-      ]
-    }
-  },
-  "donkergroen": {
-    "basis": {
-      "value": "#275937",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#275937"
-      },
-      "name": "donkergroenBasis",
-      "attributes": {
-        "category": "donkergroen",
-        "type": "basis"
-      },
-      "path": [
-        "donkergroen",
-        "basis"
-      ]
-    },
-    "tint-1": {
-      "value": "#becdc3",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#becdc3"
-      },
-      "name": "donkergroenTint1",
-      "attributes": {
-        "category": "donkergroen",
-        "type": "tint-1"
-      },
-      "path": [
-        "donkergroen",
-        "tint-1"
-      ]
-    },
-    "tint-2": {
-      "value": "#dfe6e1",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#dfe6e1"
-      },
-      "name": "donkergroenTint2",
-      "attributes": {
-        "category": "donkergroen",
-        "type": "tint-2"
-      },
-      "path": [
-        "donkergroen",
-        "tint-2"
-      ]
-    }
-  },
-  "groen": {
-    "basis": {
-      "value": "#39870c",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#39870c"
-      },
-      "name": "groenBasis",
-      "attributes": {
-        "category": "groen",
-        "type": "basis"
-      },
-      "path": [
-        "groen",
-        "basis"
-      ]
-    },
-    "tint-1": {
-      "value": "#c3dbb6",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#c3dbb6"
-      },
-      "name": "groenTint1",
-      "attributes": {
-        "category": "groen",
-        "type": "tint-1"
-      },
-      "path": [
-        "groen",
-        "tint-1"
-      ]
-    },
-    "tint-2": {
-      "value": "#e1eddb",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#e1eddb"
-      },
-      "name": "groenTint2",
-      "attributes": {
-        "category": "groen",
-        "type": "tint-2"
-      },
-      "path": [
-        "groen",
-        "tint-2"
-      ]
-    }
-  },
-  "mosgroen": {
-    "basis": {
-      "value": "#777c00",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#777c00"
-      },
-      "name": "mosgroenBasis",
-      "attributes": {
-        "category": "mosgroen",
-        "type": "basis"
-      },
-      "path": [
-        "mosgroen",
-        "basis"
-      ]
-    },
-    "tint-1": {
-      "value": "#d6d7b2",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#d6d7b2"
-      },
-      "name": "mosgroenTint1",
-      "attributes": {
-        "category": "mosgroen",
-        "type": "tint-1"
-      },
-      "path": [
-        "mosgroen",
-        "tint-1"
-      ]
-    },
-    "tint-2": {
-      "value": "#ebebd9",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#ebebd9"
-      },
-      "name": "mosgroenTint2",
-      "attributes": {
-        "category": "mosgroen",
-        "type": "tint-2"
-      },
-      "path": [
-        "mosgroen",
-        "tint-2"
-      ]
-    }
-  },
-  "mintgroen": {
-    "basis": {
-      "value": "#76d2b6",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#76d2b6"
-      },
-      "name": "mintgroenBasis",
-      "attributes": {
-        "category": "mintgroen",
-        "type": "basis"
-      },
-      "path": [
-        "mintgroen",
-        "basis"
-      ]
-    },
-    "tint-1": {
-      "value": "#d6f1e9",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#d6f1e9"
-      },
-      "name": "mintgroenTint1",
-      "attributes": {
-        "category": "mintgroen",
-        "type": "tint-1"
-      },
-      "path": [
-        "mintgroen",
-        "tint-1"
-      ]
-    },
-    "tint-2": {
-      "value": "#ebf8f4",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#ebf8f4"
-      },
-      "name": "mintgroenTint2",
-      "attributes": {
-        "category": "mintgroen",
-        "type": "tint-2"
-      },
-      "path": [
-        "mintgroen",
-        "tint-2"
-      ]
-    }
-  },
-  "donkerblauw": {
-    "basis": {
-      "value": "#01689b",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#01689b"
-      },
-      "name": "donkerblauwBasis",
-      "attributes": {
-        "category": "donkerblauw",
-        "type": "basis"
-      },
-      "path": [
-        "donkerblauw",
-        "basis"
-      ]
-    },
-    "tint-1": {
-      "value": "#cce0f1",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#cce0f1"
-      },
-      "name": "donkerblauwTint1",
-      "attributes": {
-        "category": "donkerblauw",
-        "type": "tint-1"
-      },
-      "path": [
-        "donkerblauw",
-        "tint-1"
-      ]
-    },
-    "tint-2": {
-      "value": "#e5f0f9",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#e5f0f9"
-      },
-      "name": "donkerblauwTint2",
-      "attributes": {
-        "category": "donkerblauw",
-        "type": "tint-2"
-      },
-      "path": [
-        "donkerblauw",
-        "tint-2"
-      ]
-    }
-  },
-  "hemelblauw": {
-    "basis": {
-      "value": "#007bc7",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#007bc7"
-      },
-      "name": "hemelblauwBasis",
-      "attributes": {
-        "category": "hemelblauw",
-        "type": "basis"
-      },
-      "path": [
-        "hemelblauw",
-        "basis"
-      ]
-    },
-    "tint-1": {
-      "value": "#b2d7ee",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#b2d7ee"
-      },
-      "name": "hemelblauwTint1",
-      "attributes": {
-        "category": "hemelblauw",
-        "type": "tint-1"
-      },
-      "path": [
-        "hemelblauw",
-        "tint-1"
-      ]
-    },
-    "tint-2": {
-      "value": "#d9ebf7",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#d9ebf7"
-      },
-      "name": "hemelblauwTint2",
-      "attributes": {
-        "category": "hemelblauw",
-        "type": "tint-2"
-      },
-      "path": [
-        "hemelblauw",
-        "tint-2"
-      ]
-    }
-  },
-  "lichtblauw": {
-    "basis": {
-      "value": "#8fcae7",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#8fcae7"
-      },
-      "name": "lichtblauwBasis",
-      "attributes": {
-        "category": "lichtblauw",
-        "type": "basis"
-      },
-      "path": [
-        "lichtblauw",
-        "basis"
-      ]
-    },
-    "tint-1": {
-      "value": "#ddeff8",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#ddeff8"
-      },
-      "name": "lichtblauwTint1",
-      "attributes": {
-        "category": "lichtblauw",
-        "type": "tint-1"
-      },
-      "path": [
-        "lichtblauw",
-        "tint-1"
-      ]
-    },
-    "tint-2": {
-      "value": "#eef7fb",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#eef7fb"
-      },
-      "name": "lichtblauwTint2",
-      "attributes": {
-        "category": "lichtblauw",
-        "type": "tint-2"
-      },
-      "path": [
-        "lichtblauw",
-        "tint-2"
-      ]
-    }
-  },
-  "grijs": {
-    "tint-1": {
-      "value": "#f3f3f3",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#f3f3f3"
-      },
-      "name": "grijsTint1",
-      "attributes": {
-        "category": "grijs",
-        "type": "tint-1"
-      },
-      "path": [
-        "grijs",
-        "tint-1"
-      ]
-    },
-    "tint-2": {
-      "value": "#e6e6e6",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#e6e6e6"
-      },
-      "name": "grijsTint2",
-      "attributes": {
-        "category": "grijs",
-        "type": "tint-2"
-      },
-      "path": [
-        "grijs",
-        "tint-2"
-      ]
-    },
-    "tint-3": {
-      "value": "#cccccc",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#cccccc"
-      },
-      "name": "grijsTint3",
-      "attributes": {
-        "category": "grijs",
-        "type": "tint-3"
-      },
-      "path": [
-        "grijs",
-        "tint-3"
-      ]
-    },
-    "tint-4": {
-      "value": "#b4b4b4",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#b4b4b4"
-      },
-      "name": "grijsTint4",
-      "attributes": {
-        "category": "grijs",
-        "type": "tint-4"
-      },
-      "path": [
-        "grijs",
-        "tint-4"
-      ]
-    },
-    "tint-5": {
-      "value": "#999999",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#999999"
-      },
-      "name": "grijsTint5",
-      "attributes": {
-        "category": "grijs",
-        "type": "tint-5"
-      },
-      "path": [
-        "grijs",
-        "tint-5"
-      ]
-    },
-    "tint-6": {
-      "value": "#696969",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#696969"
-      },
-      "name": "grijsTint6",
-      "attributes": {
-        "category": "grijs",
-        "type": "tint-6"
-      },
-      "path": [
-        "grijs",
-        "tint-6"
-      ]
-    },
-    "tint-7": {
-      "value": "#535353",
-      "filePath": "src/brand/color.json",
-      "isSource": true,
-      "original": {
-        "value": "#535353"
-      },
-      "name": "grijsTint7",
-      "attributes": {
-        "category": "grijs",
-        "type": "tint-7"
-      },
-      "path": [
-        "grijs",
-        "tint-7"
-      ]
+    "grijs": {
+      "tint-1": {
+        "value": "hsl(0 0% 95%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#f3f3f3"
+        },
+        "name": "colorGrijsTint1",
+        "attributes": {
+          "category": "color",
+          "type": "grijs",
+          "item": "tint-1"
+        },
+        "path": [
+          "color",
+          "grijs",
+          "tint-1"
+        ]
+      },
+      "tint-2": {
+        "value": "hsl(0 0% 90%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#e6e6e6"
+        },
+        "name": "colorGrijsTint2",
+        "attributes": {
+          "category": "color",
+          "type": "grijs",
+          "item": "tint-2"
+        },
+        "path": [
+          "color",
+          "grijs",
+          "tint-2"
+        ]
+      },
+      "tint-3": {
+        "value": "hsl(0 0% 80%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#cccccc"
+        },
+        "name": "colorGrijsTint3",
+        "attributes": {
+          "category": "color",
+          "type": "grijs",
+          "item": "tint-3"
+        },
+        "path": [
+          "color",
+          "grijs",
+          "tint-3"
+        ]
+      },
+      "tint-4": {
+        "value": "hsl(0 0% 71%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#b4b4b4"
+        },
+        "name": "colorGrijsTint4",
+        "attributes": {
+          "category": "color",
+          "type": "grijs",
+          "item": "tint-4"
+        },
+        "path": [
+          "color",
+          "grijs",
+          "tint-4"
+        ]
+      },
+      "tint-5": {
+        "value": "hsl(0 0% 60%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#999999"
+        },
+        "name": "colorGrijsTint5",
+        "attributes": {
+          "category": "color",
+          "type": "grijs",
+          "item": "tint-5"
+        },
+        "path": [
+          "color",
+          "grijs",
+          "tint-5"
+        ]
+      },
+      "tint-6": {
+        "value": "hsl(0 0% 41%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#696969"
+        },
+        "name": "colorGrijsTint6",
+        "attributes": {
+          "category": "color",
+          "type": "grijs",
+          "item": "tint-6"
+        },
+        "path": [
+          "color",
+          "grijs",
+          "tint-6"
+        ]
+      },
+      "tint-7": {
+        "value": "hsl(0 0% 33%)",
+        "filePath": "src/brand/color.json",
+        "isSource": true,
+        "original": {
+          "value": "#535353"
+        },
+        "name": "colorGrijsTint7",
+        "attributes": {
+          "category": "color",
+          "type": "grijs",
+          "item": "tint-7"
+        },
+        "path": [
+          "color",
+          "grijs",
+          "tint-7"
+        ]
+      }
     }
   },
   "typography": {
