@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 14 May 2021 13:51:51 GMT
+ * Generated on Fri, 14 May 2021 13:57:36 GMT
  */
 
 export const colorPaarsBasis = "hsl(277 65% 23%)";
