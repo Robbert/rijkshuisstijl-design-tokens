@@ -1,0 +1,65 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 14 May 2021 13:02:40 GMT
+ */
+
+export const paarsBasis = "#42145f";
+export const paarsTint1 = "#c6b8cf";
+export const paarsTint2 = "#e3dce7";
+export const violetBasis = "#a90061";
+export const violetTint1 = "#e5b2cf";
+export const violetTint2 = "#f2d9e7";
+export const robijnroodBasis = "#ca005d";
+export const robijnroodTint1 = "#efb2ce";
+export const robijnroodTint2 = "#f7d9e7";
+export const rozeBasis = "#f092cd";
+export const rozeTint1 = "#fadef0";
+export const rozeTint2 = "#fdeff8";
+export const roodBasis = "#d52b1e";
+export const roodTint1 = "#f2bfbb";
+export const roodTint2 = "#f9dfdd";
+export const oranjeBasis = "#e17000";
+export const oranjeTint1 = "#f6d4b2";
+export const oranjeTint2 = "#fbead9";
+export const donkergeelBasis = "#ffb612";
+export const donkergeelTint1 = "#ffe9b7";
+export const donkergeelTint2 = "#fff4dc";
+export const geelBasis = "#f9e11e";
+export const geelTint1 = "#fdf6bb";
+export const geelTint2 = "#fefbdd";
+export const donkerbruinBasis = "#673327";
+export const donkerbruinTint1 = "#d1c1be";
+export const donkerbruinTint2 = "#e8e1df";
+export const bruinBasis = "#94710a";
+export const bruinTint1 = "#dfd4b5";
+export const bruinTint2 = "#efeada";
+export const donkergroenBasis = "#275937";
+export const donkergroenTint1 = "#becdc3";
+export const donkergroenTint2 = "#dfe6e1";
+export const groenBasis = "#39870c";
+export const groenTint1 = "#c3dbb6";
+export const groenTint2 = "#e1eddb";
+export const mosgroenBasis = "#777c00";
+export const mosgroenTint1 = "#d6d7b2";
+export const mosgroenTint2 = "#ebebd9";
+export const mintgroenBasis = "#76d2b6";
+export const mintgroenTint1 = "#d6f1e9";
+export const mintgroenTint2 = "#ebf8f4";
+export const donkerblauwBasis = "#01689b";
+export const donkerblauwTint1 = "#cce0f1";
+export const donkerblauwTint2 = "#e5f0f9";
+export const hemelblauwBasis = "#007bc7";
+export const hemelblauwTint1 = "#b2d7ee";
+export const hemelblauwTint2 = "#d9ebf7";
+export const lichtblauwBasis = "#8fcae7";
+export const lichtblauwTint1 = "#ddeff8";
+export const lichtblauwTint2 = "#eef7fb";
+export const grijsTint1 = "#f3f3f3";
+export const grijsTint2 = "#e6e6e6";
+export const grijsTint3 = "#cccccc";
+export const grijsTint4 = "#b4b4b4";
+export const grijsTint5 = "#999999";
+export const grijsTint6 = "#696969";
+export const grijsTint7 = "#535353";
+export const typographySansSerifFontFamily = "\"RO Sans\", \"Calibri\", \"Verdana\", \"Arial\", sans-serif";
+export const typographySerifFontFamily = "\"RO Serif\", \"Times New Roman\", sans-serif";

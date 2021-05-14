@@ -1,0 +1,1068 @@
+{
+  "paars": {
+    "basis": {
+      "value": "#42145f",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#42145f"
+      },
+      "name": "paarsBasis",
+      "attributes": {
+        "category": "paars",
+        "type": "basis"
+      },
+      "path": [
+        "paars",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#c6b8cf",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#c6b8cf"
+      },
+      "name": "paarsTint1",
+      "attributes": {
+        "category": "paars",
+        "type": "tint-1"
+      },
+      "path": [
+        "paars",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#e3dce7",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#e3dce7"
+      },
+      "name": "paarsTint2",
+      "attributes": {
+        "category": "paars",
+        "type": "tint-2"
+      },
+      "path": [
+        "paars",
+        "tint-2"
+      ]
+    }
+  },
+  "violet": {
+    "basis": {
+      "value": "#a90061",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#a90061"
+      },
+      "name": "violetBasis",
+      "attributes": {
+        "category": "violet",
+        "type": "basis"
+      },
+      "path": [
+        "violet",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#e5b2cf",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#e5b2cf"
+      },
+      "name": "violetTint1",
+      "attributes": {
+        "category": "violet",
+        "type": "tint-1"
+      },
+      "path": [
+        "violet",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#f2d9e7",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#f2d9e7"
+      },
+      "name": "violetTint2",
+      "attributes": {
+        "category": "violet",
+        "type": "tint-2"
+      },
+      "path": [
+        "violet",
+        "tint-2"
+      ]
+    }
+  },
+  "robijnrood": {
+    "basis": {
+      "value": "#ca005d",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#ca005d"
+      },
+      "name": "robijnroodBasis",
+      "attributes": {
+        "category": "robijnrood",
+        "type": "basis"
+      },
+      "path": [
+        "robijnrood",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#efb2ce",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#efb2ce"
+      },
+      "name": "robijnroodTint1",
+      "attributes": {
+        "category": "robijnrood",
+        "type": "tint-1"
+      },
+      "path": [
+        "robijnrood",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#f7d9e7",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#f7d9e7"
+      },
+      "name": "robijnroodTint2",
+      "attributes": {
+        "category": "robijnrood",
+        "type": "tint-2"
+      },
+      "path": [
+        "robijnrood",
+        "tint-2"
+      ]
+    }
+  },
+  "roze": {
+    "basis": {
+      "value": "#f092cd",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#f092cd"
+      },
+      "name": "rozeBasis",
+      "attributes": {
+        "category": "roze",
+        "type": "basis"
+      },
+      "path": [
+        "roze",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#fadef0",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#fadef0"
+      },
+      "name": "rozeTint1",
+      "attributes": {
+        "category": "roze",
+        "type": "tint-1"
+      },
+      "path": [
+        "roze",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#fdeff8",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#fdeff8"
+      },
+      "name": "rozeTint2",
+      "attributes": {
+        "category": "roze",
+        "type": "tint-2"
+      },
+      "path": [
+        "roze",
+        "tint-2"
+      ]
+    }
+  },
+  "rood": {
+    "basis": {
+      "value": "#d52b1e",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#d52b1e"
+      },
+      "name": "roodBasis",
+      "attributes": {
+        "category": "rood",
+        "type": "basis"
+      },
+      "path": [
+        "rood",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#f2bfbb",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#f2bfbb"
+      },
+      "name": "roodTint1",
+      "attributes": {
+        "category": "rood",
+        "type": "tint-1"
+      },
+      "path": [
+        "rood",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#f9dfdd",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#f9dfdd"
+      },
+      "name": "roodTint2",
+      "attributes": {
+        "category": "rood",
+        "type": "tint-2"
+      },
+      "path": [
+        "rood",
+        "tint-2"
+      ]
+    }
+  },
+  "oranje": {
+    "basis": {
+      "value": "#e17000",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#e17000"
+      },
+      "name": "oranjeBasis",
+      "attributes": {
+        "category": "oranje",
+        "type": "basis"
+      },
+      "path": [
+        "oranje",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#f6d4b2",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#f6d4b2"
+      },
+      "name": "oranjeTint1",
+      "attributes": {
+        "category": "oranje",
+        "type": "tint-1"
+      },
+      "path": [
+        "oranje",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#fbead9",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#fbead9"
+      },
+      "name": "oranjeTint2",
+      "attributes": {
+        "category": "oranje",
+        "type": "tint-2"
+      },
+      "path": [
+        "oranje",
+        "tint-2"
+      ]
+    }
+  },
+  "donkergeel": {
+    "basis": {
+      "value": "#ffb612",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#ffb612"
+      },
+      "name": "donkergeelBasis",
+      "attributes": {
+        "category": "donkergeel",
+        "type": "basis"
+      },
+      "path": [
+        "donkergeel",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#ffe9b7",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#ffe9b7"
+      },
+      "name": "donkergeelTint1",
+      "attributes": {
+        "category": "donkergeel",
+        "type": "tint-1"
+      },
+      "path": [
+        "donkergeel",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#fff4dc",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#fff4dc"
+      },
+      "name": "donkergeelTint2",
+      "attributes": {
+        "category": "donkergeel",
+        "type": "tint-2"
+      },
+      "path": [
+        "donkergeel",
+        "tint-2"
+      ]
+    }
+  },
+  "geel": {
+    "basis": {
+      "value": "#f9e11e",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#f9e11e"
+      },
+      "name": "geelBasis",
+      "attributes": {
+        "category": "geel",
+        "type": "basis"
+      },
+      "path": [
+        "geel",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#fdf6bb",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#fdf6bb"
+      },
+      "name": "geelTint1",
+      "attributes": {
+        "category": "geel",
+        "type": "tint-1"
+      },
+      "path": [
+        "geel",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#fefbdd",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#fefbdd"
+      },
+      "name": "geelTint2",
+      "attributes": {
+        "category": "geel",
+        "type": "tint-2"
+      },
+      "path": [
+        "geel",
+        "tint-2"
+      ]
+    }
+  },
+  "donkerbruin": {
+    "basis": {
+      "value": "#673327",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#673327"
+      },
+      "name": "donkerbruinBasis",
+      "attributes": {
+        "category": "donkerbruin",
+        "type": "basis"
+      },
+      "path": [
+        "donkerbruin",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#d1c1be",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#d1c1be"
+      },
+      "name": "donkerbruinTint1",
+      "attributes": {
+        "category": "donkerbruin",
+        "type": "tint-1"
+      },
+      "path": [
+        "donkerbruin",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#e8e1df",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#e8e1df"
+      },
+      "name": "donkerbruinTint2",
+      "attributes": {
+        "category": "donkerbruin",
+        "type": "tint-2"
+      },
+      "path": [
+        "donkerbruin",
+        "tint-2"
+      ]
+    }
+  },
+  "bruin": {
+    "basis": {
+      "value": "#94710a",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#94710a"
+      },
+      "name": "bruinBasis",
+      "attributes": {
+        "category": "bruin",
+        "type": "basis"
+      },
+      "path": [
+        "bruin",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#dfd4b5",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#dfd4b5"
+      },
+      "name": "bruinTint1",
+      "attributes": {
+        "category": "bruin",
+        "type": "tint-1"
+      },
+      "path": [
+        "bruin",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#efeada",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#efeada"
+      },
+      "name": "bruinTint2",
+      "attributes": {
+        "category": "bruin",
+        "type": "tint-2"
+      },
+      "path": [
+        "bruin",
+        "tint-2"
+      ]
+    }
+  },
+  "donkergroen": {
+    "basis": {
+      "value": "#275937",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#275937"
+      },
+      "name": "donkergroenBasis",
+      "attributes": {
+        "category": "donkergroen",
+        "type": "basis"
+      },
+      "path": [
+        "donkergroen",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#becdc3",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#becdc3"
+      },
+      "name": "donkergroenTint1",
+      "attributes": {
+        "category": "donkergroen",
+        "type": "tint-1"
+      },
+      "path": [
+        "donkergroen",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#dfe6e1",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#dfe6e1"
+      },
+      "name": "donkergroenTint2",
+      "attributes": {
+        "category": "donkergroen",
+        "type": "tint-2"
+      },
+      "path": [
+        "donkergroen",
+        "tint-2"
+      ]
+    }
+  },
+  "groen": {
+    "basis": {
+      "value": "#39870c",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#39870c"
+      },
+      "name": "groenBasis",
+      "attributes": {
+        "category": "groen",
+        "type": "basis"
+      },
+      "path": [
+        "groen",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#c3dbb6",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#c3dbb6"
+      },
+      "name": "groenTint1",
+      "attributes": {
+        "category": "groen",
+        "type": "tint-1"
+      },
+      "path": [
+        "groen",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#e1eddb",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#e1eddb"
+      },
+      "name": "groenTint2",
+      "attributes": {
+        "category": "groen",
+        "type": "tint-2"
+      },
+      "path": [
+        "groen",
+        "tint-2"
+      ]
+    }
+  },
+  "mosgroen": {
+    "basis": {
+      "value": "#777c00",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#777c00"
+      },
+      "name": "mosgroenBasis",
+      "attributes": {
+        "category": "mosgroen",
+        "type": "basis"
+      },
+      "path": [
+        "mosgroen",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#d6d7b2",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#d6d7b2"
+      },
+      "name": "mosgroenTint1",
+      "attributes": {
+        "category": "mosgroen",
+        "type": "tint-1"
+      },
+      "path": [
+        "mosgroen",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#ebebd9",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#ebebd9"
+      },
+      "name": "mosgroenTint2",
+      "attributes": {
+        "category": "mosgroen",
+        "type": "tint-2"
+      },
+      "path": [
+        "mosgroen",
+        "tint-2"
+      ]
+    }
+  },
+  "mintgroen": {
+    "basis": {
+      "value": "#76d2b6",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#76d2b6"
+      },
+      "name": "mintgroenBasis",
+      "attributes": {
+        "category": "mintgroen",
+        "type": "basis"
+      },
+      "path": [
+        "mintgroen",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#d6f1e9",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#d6f1e9"
+      },
+      "name": "mintgroenTint1",
+      "attributes": {
+        "category": "mintgroen",
+        "type": "tint-1"
+      },
+      "path": [
+        "mintgroen",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#ebf8f4",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#ebf8f4"
+      },
+      "name": "mintgroenTint2",
+      "attributes": {
+        "category": "mintgroen",
+        "type": "tint-2"
+      },
+      "path": [
+        "mintgroen",
+        "tint-2"
+      ]
+    }
+  },
+  "donkerblauw": {
+    "basis": {
+      "value": "#01689b",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#01689b"
+      },
+      "name": "donkerblauwBasis",
+      "attributes": {
+        "category": "donkerblauw",
+        "type": "basis"
+      },
+      "path": [
+        "donkerblauw",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#cce0f1",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#cce0f1"
+      },
+      "name": "donkerblauwTint1",
+      "attributes": {
+        "category": "donkerblauw",
+        "type": "tint-1"
+      },
+      "path": [
+        "donkerblauw",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#e5f0f9",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#e5f0f9"
+      },
+      "name": "donkerblauwTint2",
+      "attributes": {
+        "category": "donkerblauw",
+        "type": "tint-2"
+      },
+      "path": [
+        "donkerblauw",
+        "tint-2"
+      ]
+    }
+  },
+  "hemelblauw": {
+    "basis": {
+      "value": "#007bc7",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#007bc7"
+      },
+      "name": "hemelblauwBasis",
+      "attributes": {
+        "category": "hemelblauw",
+        "type": "basis"
+      },
+      "path": [
+        "hemelblauw",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#b2d7ee",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#b2d7ee"
+      },
+      "name": "hemelblauwTint1",
+      "attributes": {
+        "category": "hemelblauw",
+        "type": "tint-1"
+      },
+      "path": [
+        "hemelblauw",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#d9ebf7",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#d9ebf7"
+      },
+      "name": "hemelblauwTint2",
+      "attributes": {
+        "category": "hemelblauw",
+        "type": "tint-2"
+      },
+      "path": [
+        "hemelblauw",
+        "tint-2"
+      ]
+    }
+  },
+  "lichtblauw": {
+    "basis": {
+      "value": "#8fcae7",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#8fcae7"
+      },
+      "name": "lichtblauwBasis",
+      "attributes": {
+        "category": "lichtblauw",
+        "type": "basis"
+      },
+      "path": [
+        "lichtblauw",
+        "basis"
+      ]
+    },
+    "tint-1": {
+      "value": "#ddeff8",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#ddeff8"
+      },
+      "name": "lichtblauwTint1",
+      "attributes": {
+        "category": "lichtblauw",
+        "type": "tint-1"
+      },
+      "path": [
+        "lichtblauw",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#eef7fb",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#eef7fb"
+      },
+      "name": "lichtblauwTint2",
+      "attributes": {
+        "category": "lichtblauw",
+        "type": "tint-2"
+      },
+      "path": [
+        "lichtblauw",
+        "tint-2"
+      ]
+    }
+  },
+  "grijs": {
+    "tint-1": {
+      "value": "#f3f3f3",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#f3f3f3"
+      },
+      "name": "grijsTint1",
+      "attributes": {
+        "category": "grijs",
+        "type": "tint-1"
+      },
+      "path": [
+        "grijs",
+        "tint-1"
+      ]
+    },
+    "tint-2": {
+      "value": "#e6e6e6",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#e6e6e6"
+      },
+      "name": "grijsTint2",
+      "attributes": {
+        "category": "grijs",
+        "type": "tint-2"
+      },
+      "path": [
+        "grijs",
+        "tint-2"
+      ]
+    },
+    "tint-3": {
+      "value": "#cccccc",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#cccccc"
+      },
+      "name": "grijsTint3",
+      "attributes": {
+        "category": "grijs",
+        "type": "tint-3"
+      },
+      "path": [
+        "grijs",
+        "tint-3"
+      ]
+    },
+    "tint-4": {
+      "value": "#b4b4b4",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#b4b4b4"
+      },
+      "name": "grijsTint4",
+      "attributes": {
+        "category": "grijs",
+        "type": "tint-4"
+      },
+      "path": [
+        "grijs",
+        "tint-4"
+      ]
+    },
+    "tint-5": {
+      "value": "#999999",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#999999"
+      },
+      "name": "grijsTint5",
+      "attributes": {
+        "category": "grijs",
+        "type": "tint-5"
+      },
+      "path": [
+        "grijs",
+        "tint-5"
+      ]
+    },
+    "tint-6": {
+      "value": "#696969",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#696969"
+      },
+      "name": "grijsTint6",
+      "attributes": {
+        "category": "grijs",
+        "type": "tint-6"
+      },
+      "path": [
+        "grijs",
+        "tint-6"
+      ]
+    },
+    "tint-7": {
+      "value": "#535353",
+      "filePath": "src/brand/color.json",
+      "isSource": true,
+      "original": {
+        "value": "#535353"
+      },
+      "name": "grijsTint7",
+      "attributes": {
+        "category": "grijs",
+        "type": "tint-7"
+      },
+      "path": [
+        "grijs",
+        "tint-7"
+      ]
+    }
+  },
+  "typography": {
+    "sans-serif": {
+      "font-family": {
+        "value": "\"RO Sans\", \"Calibri\", \"Verdana\", \"Arial\", sans-serif",
+        "filePath": "src/brand/typography.json",
+        "isSource": true,
+        "original": {
+          "value": "\"RO Sans\", \"Calibri\", \"Verdana\", \"Arial\", sans-serif"
+        },
+        "name": "typographySansSerifFontFamily",
+        "attributes": {
+          "category": "typography",
+          "type": "sans-serif",
+          "item": "font-family"
+        },
+        "path": [
+          "typography",
+          "sans-serif",
+          "font-family"
+        ]
+      }
+    },
+    "serif": {
+      "font-family": {
+        "value": "\"RO Serif\", \"Times New Roman\", sans-serif",
+        "filePath": "src/brand/typography.json",
+        "isSource": true,
+        "original": {
+          "value": "\"RO Serif\", \"Times New Roman\", sans-serif"
+        },
+        "name": "typographySerifFontFamily",
+        "attributes": {
+          "category": "typography",
+          "type": "serif",
+          "item": "font-family"
+        },
+        "path": [
+          "typography",
+          "serif",
+          "font-family"
+        ]
+      }
+    }
+  }
+}
