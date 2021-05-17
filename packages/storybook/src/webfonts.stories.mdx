@@ -1,0 +1,32 @@
+import { Description, Meta, Typeset } from "@storybook/addon-docs/blocks";
+import { MDXEmbedProvider } from "mdx-embed";
+import brandColor from "../../../proprietary/design-tokens/src/brand/color.json";
+
+# Lettertypes
+
+<Meta title="Rijkshuisstijl/Lettertypes" />
+
+De webfonts zijn versies van de rijkshuisstijl lettertypen, die speciaal gemaakt zijn voor een optimale weergave op het beeldscherm. Zowel de Rijksoverheid Sans als de Serif zijn als webfont beschikbaar.
+
+## Sans Web of Serif Web?
+
+De Sans Web wordt toegepast voor langere (lees-)teksten. De Serif Web is vooral interessant voor de afwisseling in bijvoorbeeld digitale magazines, in combinatie met de Sans Web. Beide webfonts zijn beschikbaar in 3 gewichten: regular, italic en bold.
+
+- De Rijksoverheidswebfonts mogen, net als het rijkslogo, uitsluitend voor Rijksoverheidspublicaties ingezet worden.
+- Het is aan te bevelen ook een _fallback_ systeemfont te bepalen voor het geval het webfont niet getoond kan worden.
+
+### Serif
+
+<Typeset fontFamily="RO Serif" fontSizes={["24px"]} sampleText="The Quick Brown Fox Jumps Over The Lazy Dog" />
+
+### Sans
+
+<Typeset fontFamily="RO Sans" fontSizes={["24px"]} sampleText="The Quick Brown Fox Jumps Over The Lazy Dog" />
+
+## Alternatief: Systeemfont
+
+Kun je de webfonts, om wat voor reden dan ook, niet toepassen? Gebruik dan een systeemfont als alternatief. Je hebt de keuze uit Arial, Verdana of Times New Roman.
+
+---
+
+Bron: [Rijkshuisstijl: Webfonts](https://www.rijkshuisstijl.nl/basiselementen/basiselementen-online/webfonts)
