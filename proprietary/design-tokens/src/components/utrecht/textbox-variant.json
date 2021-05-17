@@ -1,0 +1,10 @@
+{
+  "textbox": {
+    "invalid": {
+      "border-color": { "value": "#c63c2c" }
+    },
+    "placeholder": {
+      "color": { "value": "dimgray" }
+    }
+  }
+}

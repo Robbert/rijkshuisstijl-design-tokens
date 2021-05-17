@@ -1,0 +1,17 @@
+{
+  "link": {
+    "visited": {
+      "color": {
+        "value": "#884488"
+      }
+    },
+    "hover": {
+      "color": {
+        "value": "#01496D"
+      },
+      "text-decoration": {
+        "value": "none"
+      }
+    }
+  }
+}

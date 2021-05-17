@@ -1,0 +1,34 @@
+{
+  "color": {
+    "feedback": {
+      "danger": {
+        "value": "{color.rood.basis.value}"
+      },
+      "warning": {
+        "value": "{color.donkergeel.basis.value}"
+      },
+      "safe": {
+        "value": "{color.groen.basis.value}"
+      },
+      "info": {
+        "value": "{color.hemelblauw.basis.value}"
+      }
+    }
+  },
+  "background-color": {
+    "feedback": {
+      "danger": {
+        "value": "{color.rood.tint-2.value}"
+      },
+      "warning": {
+        "value": "{color.donkergeel.tint-2.value}"
+      },
+      "safe": {
+        "value": "{color.groen.tint-2.value}"
+      },
+      "info": {
+        "value": "{color.hemelblauw.tint-2.value}"
+      }
+    }
+  }
+}

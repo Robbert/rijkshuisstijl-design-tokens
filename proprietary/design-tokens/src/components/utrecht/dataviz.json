@@ -1,0 +1,23 @@
+{
+  "color": {
+    "dataviz": {
+      "1": { "value": "{color.paars.basis.value}" },
+      "2": { "value": "{color.violet.basis.value}" },
+      "3": { "value": "{color.robijnrood.basis.value}" },
+      "4": { "value": "{color.roze.basis.value}" },
+      "5": { "value": "{color.rood.basis.value}" },
+      "6": { "value": "{color.oranje.basis.value}" },
+      "7": { "value": "{color.donkergeel.basis.value}" },
+      "8": { "value": "{color.geel.basis.value}" },
+      "9": { "value": "{color.donkerbruin.basis.value}" },
+      "10": { "value": "{color.bruin.basis.value}" },
+      "11": { "value": "{color.donkergroen.basis.value}" },
+      "12": { "value": "{color.groen.basis.value}" },
+      "13": { "value": "{color.mosgroen.basis.value}" },
+      "14": { "value": "{color.mintgroen.basis.value}" },
+      "15": { "value": "{color.donkerblauw.basis.value}" },
+      "16": { "value": "{color.hemelblauw.basis.value}" },
+      "17": { "value": "{color.lichtblauw.basis.value}" }
+    }
+  }
+}

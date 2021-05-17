@@ -1,0 +1,16 @@
+{
+  "document": {
+    "background-color": {
+      "value": "white"
+    },
+    "color": {
+      "value": "black"
+    },
+    "font-family": {
+      "value": "{typography.sans-serif.font-family.value}"
+    },
+    "font-size": {
+      "value": "18px"
+    }
+  }
+}
