@@ -1,16 +1,18 @@
 {
-  "link": {
-    "visited": {
-      "color": {
-        "value": "#884488"
-      }
-    },
-    "hover": {
-      "color": {
-        "value": "#01496D"
+  "utrecht": {
+    "link": {
+      "visited": {
+        "color": {
+          "value": "#884488"
+        }
       },
-      "text-decoration": {
-        "value": "none"
+      "hover": {
+        "color": {
+          "value": "#01496D"
+        },
+        "text-decoration": {
+          "value": "none"
+        }
       }
     }
   }

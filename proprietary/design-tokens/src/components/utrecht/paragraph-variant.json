@@ -1,8 +1,10 @@
 {
-  "paragraph": {
-    "lead": {
-      "font-size": {
-        "value": "20px"
+  "utrecht": {
+    "paragraph": {
+      "lead": {
+        "font-size": {
+          "value": "20px"
+        }
       }
     }
   }

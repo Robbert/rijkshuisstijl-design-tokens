@@ -1,8 +1,10 @@
 {
-  "color": {
-    "action": {
-      "primary": {
-        "value": "{color.donkerblauw.basis.value}"
+  "utrecht": {
+    "color": {
+      "action": {
+        "primary": {
+          "value": "{rijkshuisstijl.color.donkerblauw.basis.value}"
+        }
       }
     }
   }

@@ -1,7 +1,9 @@
 {
-  "main": {
-    "font-size": {
-      "value": "20px"
+  "utrecht": {
+    "main": {
+      "font-size": {
+        "value": "20px"
+      }
     }
   }
 }

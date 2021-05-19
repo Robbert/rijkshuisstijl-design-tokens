@@ -1,23 +1,25 @@
 {
-  "color": {
-    "dataviz": {
-      "1": { "value": "{color.paars.basis.value}" },
-      "2": { "value": "{color.violet.basis.value}" },
-      "3": { "value": "{color.robijnrood.basis.value}" },
-      "4": { "value": "{color.roze.basis.value}" },
-      "5": { "value": "{color.rood.basis.value}" },
-      "6": { "value": "{color.oranje.basis.value}" },
-      "7": { "value": "{color.donkergeel.basis.value}" },
-      "8": { "value": "{color.geel.basis.value}" },
-      "9": { "value": "{color.donkerbruin.basis.value}" },
-      "10": { "value": "{color.bruin.basis.value}" },
-      "11": { "value": "{color.donkergroen.basis.value}" },
-      "12": { "value": "{color.groen.basis.value}" },
-      "13": { "value": "{color.mosgroen.basis.value}" },
-      "14": { "value": "{color.mintgroen.basis.value}" },
-      "15": { "value": "{color.donkerblauw.basis.value}" },
-      "16": { "value": "{color.hemelblauw.basis.value}" },
-      "17": { "value": "{color.lichtblauw.basis.value}" }
+  "utrecht": {
+    "color": {
+      "dataviz": {
+        "1": { "value": "{rijkshuisstijl.color.paars.basis.value}" },
+        "2": { "value": "{rijkshuisstijl.color.violet.basis.value}" },
+        "3": { "value": "{rijkshuisstijl.color.robijnrood.basis.value}" },
+        "4": { "value": "{rijkshuisstijl.color.roze.basis.value}" },
+        "5": { "value": "{rijkshuisstijl.color.rood.basis.value}" },
+        "6": { "value": "{rijkshuisstijl.color.oranje.basis.value}" },
+        "7": { "value": "{rijkshuisstijl.color.donkergeel.basis.value}" },
+        "8": { "value": "{rijkshuisstijl.color.geel.basis.value}" },
+        "9": { "value": "{rijkshuisstijl.color.donkerbruin.basis.value}" },
+        "10": { "value": "{rijkshuisstijl.color.bruin.basis.value}" },
+        "11": { "value": "{rijkshuisstijl.color.donkergroen.basis.value}" },
+        "12": { "value": "{rijkshuisstijl.color.groen.basis.value}" },
+        "13": { "value": "{rijkshuisstijl.color.mosgroen.basis.value}" },
+        "14": { "value": "{rijkshuisstijl.color.mintgroen.basis.value}" },
+        "15": { "value": "{rijkshuisstijl.color.donkerblauw.basis.value}" },
+        "16": { "value": "{rijkshuisstijl.color.hemelblauw.basis.value}" },
+        "17": { "value": "{rijkshuisstijl.color.lichtblauw.basis.value}" }
+      }
     }
   }
 }

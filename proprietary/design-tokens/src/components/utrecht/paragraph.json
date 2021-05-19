@@ -1,7 +1,9 @@
 {
-  "paragraph": {
-    "font-size": {
-      "value": "18px"
+  "utrecht": {
+    "paragraph": {
+      "font-size": {
+        "value": "18px"
+      }
     }
   }
 }

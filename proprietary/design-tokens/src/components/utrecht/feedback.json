@@ -1,33 +1,35 @@
 {
-  "color": {
-    "feedback": {
-      "danger": {
-        "value": "{color.rood.basis.value}"
-      },
-      "warning": {
-        "value": "{color.donkergeel.basis.value}"
-      },
-      "safe": {
-        "value": "{color.groen.basis.value}"
-      },
-      "info": {
-        "value": "{color.hemelblauw.basis.value}"
+  "utrecht": {
+    "color": {
+      "feedback": {
+        "danger": {
+          "value": "{rijkshuisstijl.color.rood.basis.value}"
+        },
+        "warning": {
+          "value": "{rijkshuisstijl.color.donkergeel.basis.value}"
+        },
+        "safe": {
+          "value": "{rijkshuisstijl.color.groen.basis.value}"
+        },
+        "info": {
+          "value": "{rijkshuisstijl.color.hemelblauw.basis.value}"
+        }
       }
-    }
-  },
-  "background-color": {
-    "feedback": {
-      "danger": {
-        "value": "{color.rood.tint-2.value}"
-      },
-      "warning": {
-        "value": "{color.donkergeel.tint-2.value}"
-      },
-      "safe": {
-        "value": "{color.groen.tint-2.value}"
-      },
-      "info": {
-        "value": "{color.hemelblauw.tint-2.value}"
+    },
+    "background-color": {
+      "feedback": {
+        "danger": {
+          "value": "{rijkshuisstijl.color.rood.tint-2.value}"
+        },
+        "warning": {
+          "value": "{rijkshuisstijl.color.donkergeel.tint-2.value}"
+        },
+        "safe": {
+          "value": "{rijkshuisstijl.color.groen.tint-2.value}"
+        },
+        "info": {
+          "value": "{rijkshuisstijl.color.hemelblauw.tint-2.value}"
+        }
       }
     }
   }

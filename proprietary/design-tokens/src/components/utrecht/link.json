@@ -1,7 +1,9 @@
 {
-  "link": {
-    "color": {
-      "value": "{color.donkerblauw.basis.value}"
+  "utrecht": {
+    "link": {
+      "color": {
+        "value": "{rijkshuisstijl.color.donkerblauw.basis.value}"
+      }
     }
   }
 }

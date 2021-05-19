@@ -1,13 +1,19 @@
 {
-  "textarea": {
-    "border-radius": { "value": "{textbox.border-radius.value}" },
-    "padding-inline-end": { "value": "{textbox.padding-inline-end.value}" },
-    "padding-inline-start": { "value": "{textbox.padding-inline-end.value}" },
-    "padding-block-end": { "value": "16px" },
-    "padding-block-start": { "value": "16px" },
-    "border-color": { "value": "{textbox.border-color.value}" },
-    "border-width": { "value": "{textbox.border-width.value}" },
-    "font-family": { "value": "{textbox.font-family.value}" },
-    "font-size": { "value": "{textbox.font-size.value}" }
+  "utrecht": {
+    "textarea": {
+      "border-radius": { "value": "{utrecht.textbox.border-radius.value}" },
+      "padding-inline-end": {
+        "value": "{utrecht.textbox.padding-inline-end.value}"
+      },
+      "padding-inline-start": {
+        "value": "{utrecht.textbox.padding-inline-end.value}"
+      },
+      "padding-block-end": { "value": "16px" },
+      "padding-block-start": { "value": "16px" },
+      "border-color": { "value": "{utrecht.textbox.border-color.value}" },
+      "border-width": { "value": "{utrecht.textbox.border-width.value}" },
+      "font-family": { "value": "{utrecht.textbox.font-family.value}" },
+      "font-size": { "value": "{utrecht.textbox.font-size.value}" }
+    }
   }
 }

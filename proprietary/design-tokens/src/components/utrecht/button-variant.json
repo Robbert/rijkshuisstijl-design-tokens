@@ -1,35 +1,37 @@
 {
-  "button": {
-    "hover": {
-      "hover-background-color": {
-        "value": "#01496d"
+  "utrecht": {
+    "button": {
+      "hover": {
+        "hover-background-color": {
+          "value": "#01496d"
+        },
+        "hover-color": {
+          "value": "white"
+        }
       },
-      "hover-color": {
-        "value": "white"
-      }
-    },
-    "disabled": {
-      "background-color": {
-        "value": "{color.grijs.tint-2.value}"
+      "disabled": {
+        "background-color": {
+          "value": "{rijkshuisstijl.color.grijs.tint-2.value}"
+        },
+        "color": {
+          "value": "{rijkshuisstijl.color.grijs.tint-3.value}"
+        }
       },
-      "color": {
-        "value": "{color.grijs.tint-3.value}"
-      }
-    },
-    "primary-action": {
-      "background-color": {
-        "value": "{color.donkerblauw.basis.value}"
+      "primary-action": {
+        "background-color": {
+          "value": "{rijkshuisstijl.color.donkerblauw.basis.value}"
+        },
+        "color": {
+          "value": "white"
+        }
       },
-      "color": {
-        "value": "white"
-      }
-    },
-    "primary-action-hover": {
-      "background-color": {
-        "value": "#01496d"
-      },
-      "color": {
-        "value": "white"
+      "primary-action-hover": {
+        "background-color": {
+          "value": "#01496d"
+        },
+        "color": {
+          "value": "white"
+        }
       }
     }
   }

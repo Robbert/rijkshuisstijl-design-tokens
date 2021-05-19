@@ -1,10 +1,12 @@
 {
-  "textbox": {
-    "invalid": {
-      "border-color": { "value": "#c63c2c" }
-    },
-    "placeholder": {
-      "color": { "value": "dimgray" }
+  "utrecht": {
+    "textbox": {
+      "invalid": {
+        "border-color": { "value": "#c63c2c" }
+      },
+      "placeholder": {
+        "color": { "value": "dimgray" }
+      }
     }
   }
 }
