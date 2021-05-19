@@ -22,7 +22,6 @@
       ]
     },
     "css": {
-      "prefix": "rijkshuisstijl",
       "transforms": ["attribute/cti", "name/cti/kebab", "color/hsl-4"],
       "buildPath": "dist/",
       "files": [
@@ -36,7 +35,6 @@
       ]
     },
     "scss": {
-      "prefix": "rijkshuisstijl",
       "transforms": ["attribute/cti", "name/cti/kebab", "color/hsl-4"],
       "buildPath": "dist/",
       "files": [
@@ -50,7 +48,6 @@
       ]
     },
     "less": {
-      "prefix": "rijkshuisstijl",
       "transforms": ["attribute/cti", "name/cti/kebab", "color/hsl-4"],
       "buildPath": "dist/",
       "files": [

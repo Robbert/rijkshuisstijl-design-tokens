@@ -1,23 +1,25 @@
 {
-  "typography": {
-    "sans-serif-fallback": {
-      "font-family": {
-        "value": "\"Calibri\", \"Verdana\", \"Arial\", sans-serif"
-      }
-    },
-    "serif-fallback": {
-      "font-family": {
-        "value": "\"Times New Roman\", serif"
-      }
-    },
-    "sans-serif": {
-      "font-family": {
-        "value": "\"RO Sans\", {typography.sans-serif-fallback.font-family.value}"
-      }
-    },
-    "serif": {
-      "font-family": {
-        "value": "\"RO Serif\", {typography.serif-fallback.font-family.value}"
+  "rijkshuisstijl": {
+    "typography": {
+      "sans-serif-fallback": {
+        "font-family": {
+          "value": "\"Calibri\", \"Verdana\", \"Arial\", sans-serif"
+        }
+      },
+      "serif-fallback": {
+        "font-family": {
+          "value": "\"Times New Roman\", serif"
+        }
+      },
+      "sans-serif": {
+        "font-family": {
+          "value": "\"RO Sans\", {rijkshuisstijl.typography.sans-serif-fallback.font-family.value}"
+        }
+      },
+      "serif": {
+        "font-family": {
+          "value": "\"RO Serif\", {rijkshuisstijl.typography.serif-fallback.font-family.value}"
+        }
       }
     }
   }
